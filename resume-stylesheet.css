@@ -516,11 +516,12 @@ h6 {
 h1 {
     font-size: 37px;
     color: #000;
-    text-align: center
+    text-align: center;
 }
 
 h2 {
     font-size: 24px;
+    text-align: center;
     border-bottom: 1px solid #ccc;
     color: #111
 }
@@ -535,7 +536,6 @@ h3 {
 h4 {
     font-size: 16px;
     color: #333;
-    text-align: center;
     -webkit-margin-before: 0.02em;
     -webkit-margin-after: 0.02em;
 }
@@ -543,7 +543,6 @@ h4 {
 h5 {
     font-size: 14px;
     color: #333;
-    text-align: center
 }
 
 h6 {
